@@ -1,4 +1,6 @@
-print("hello world")
-x = 2
-y = 3
-print(x+y)
+print("Hello, World!")
+def hello():
+    print("Hello from the hello function!")
+
+hello()
+print("This is a testing script.")
