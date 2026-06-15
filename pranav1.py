@@ -1,4 +1,1 @@
-def hello(x,y):
-    print(x+y)
-
-hello(2, 3)
+print("pranav moorthy")
